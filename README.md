@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding...
 - 🌱 I’m still learning ...
 - 💞️ maybe a developer in future
-- 📫 How to reach me ... 
-- 👩‍💻 you can contact me in telegram..@physic_hybrid
+- 📫 How to reach me .. Telegram:-
+     @physic_hybrid
 
 
 <!---
